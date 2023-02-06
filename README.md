@@ -30,6 +30,8 @@ Ask me anything [here](https://github.com/charlesdzadu/charlesdzadu/issues?q=is%
   <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlesdzadu&langs_count=8&theme=jolly&layout=compact" />
 </a>
 
+<br>
+<br>
 [![Charles DZADU wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@charlesdzadu)](https://github.com/anuraghazra/github-readme-stats)
 
 <p> 
