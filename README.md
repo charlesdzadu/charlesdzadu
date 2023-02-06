@@ -37,3 +37,6 @@ Ask me anything [here](https://github.com/charlesdzadu/charlesdzadu/issues?q=is%
   <a href="https://www.linkedin.com/in/charlesdzadu/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
   <a href="https://charlesdzadu.com" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
+
+
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@charlesdzadu/82b36cc2-fe9d-46ee-ae3d-43345affddc9.png" /></a>
