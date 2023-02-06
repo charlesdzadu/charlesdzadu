@@ -24,10 +24,10 @@ My motto: Do hard things
 Ask me anything [here](https://github.com/charlesdzadu/charlesdzadu/issues?q=is%3Aissue+is%3Aopen).
 
 <a href="https://charlesdzadu.com">
-  <img height="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=charlesdzadu&show_icons=true&theme=jolly&layout=compact&count_private=true" />
+  <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api?username=charlesdzadu&show_icons=true&theme=jolly&layout=compact&count_private=true" />
 </a>
 <a href="charlesdzadu.com">
-  <img height="200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlesdzadu&langs_count=8&theme=jolly&layout=compact" />
+  <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlesdzadu&langs_count=8&theme=jolly&layout=compact" />
 </a>
 
 [![Charles DZADU wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@charlesdzadu)](https://github.com/anuraghazra/github-readme-stats)
