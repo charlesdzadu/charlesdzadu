@@ -39,4 +39,7 @@ Ask me anything [here](https://github.com/charlesdzadu/charlesdzadu/issues?q=is%
 </p>
 
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@charlesdzadu/82b36cc2-fe9d-46ee-ae3d-43345affddc9.png" /></a>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/charlesdzadu/count.svg" />
+</p>
