@@ -30,7 +30,7 @@ Ask me anything [here](https://github.com/charlesdzadu/charlesdzadu/issues?q=is%
   <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlesdzadu&langs_count=8&theme=jolly&layout=compact" />
 </a>
 
-[![Charles DZADU wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@charlesdzadu)](https://charlesdzadu.com)
+
 
 <p> 
   <a href="https://twitter.com/CharlesDzadu" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
