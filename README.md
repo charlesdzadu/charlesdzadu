@@ -1,13 +1,7 @@
 ### Hi there 👋
 
-My name is Charles DZADU. I am a software engineer specializing in the creation of web and mobile graphical interfaces. I am also constantly improving my algorithmic skills to create optimized solutions.
+My name is Charles DZADU. I am a software engineer specializing in the creation of web and mobile graphical interfaces. I am also constantly improving my problem solving, data structure and system design skills to create optimized solutions.
 My motto: Do hard things
-
-👨‍🎓 I am currently in the ALX AFRICA program.
-
-🤝 I work on exciting freelance projects
-
-👨‍💻 I'm improving my algorithmic skills.
 
 
 Ask me anything [here](https://github.com/charlesdzadu/charlesdzadu/issues?q=is%3Aissue+is%3Aopen).
