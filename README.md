@@ -9,20 +9,20 @@ Ask me anything [here](https://github.com/charlesdzadu/charlesdzadu/issues?q=is%
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 September 2023 - To: 20 September 2023
+From: 22 August 2023 - To: 20 September 2023
 
-Total Time: 21 hrs 3 mins
+Total Time: 93 hrs 55 mins
 
-Python       9 hrs 5 mins    ██████████▓░░░░░░░░░░░░░░   43.13 %
-Vue.js       8 hrs           █████████▓░░░░░░░░░░░░░░░   38.02 %
-TypeScript   2 hrs 18 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.93 %
-Other        1 hr            █▒░░░░░░░░░░░░░░░░░░░░░░░   04.75 %
-Markdown     22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
-Bash         16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
-TSConfig     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
-Assembly     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Python         24 hrs 59 mins  ██████▓░░░░░░░░░░░░░░░░░░   26.62 %
+Vue.js         24 hrs 32 mins  ██████▓░░░░░░░░░░░░░░░░░░   26.13 %
+JavaScript     15 hrs 2 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.02 %
+TypeScript     8 hrs 15 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.78 %
+C              5 hrs 11 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.53 %
+Dart           3 hrs 41 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 %
+Other          3 hrs 3 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 %
+C#             2 hrs 11 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
+HTML           2 hrs 6 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
+Bash           1 hr 28 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
 ```
 
 <!--END_SECTION:waka-->
