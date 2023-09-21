@@ -12,6 +12,9 @@ My motto: Do hard things
 
 Ask me anything [here](https://github.com/charlesdzadu/charlesdzadu/issues?q=is%3Aissue+is%3Aopen).
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <a href="https://charlesdzadu.com">
   <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api?username=charlesdzadu&show_icons=true&theme=jolly&layout=compact&count_private=true" />
 </a>
