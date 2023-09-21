@@ -7,6 +7,24 @@ My motto: Do hard things
 Ask me anything [here](https://github.com/charlesdzadu/charlesdzadu/issues?q=is%3Aissue+is%3Aopen).
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 14 September 2023 - To: 20 September 2023
+
+Total Time: 21 hrs 3 mins
+
+Python       9 hrs 5 mins    ██████████▓░░░░░░░░░░░░░░   43.13 %
+Vue.js       8 hrs           █████████▓░░░░░░░░░░░░░░░   38.02 %
+TypeScript   2 hrs 18 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.93 %
+Other        1 hr            █▒░░░░░░░░░░░░░░░░░░░░░░░   04.75 %
+Markdown     22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
+Bash         16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+TSConfig     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Assembly     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+```
+
 <!--END_SECTION:waka-->
 
 <a href="https://charlesdzadu.com">
