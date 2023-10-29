@@ -9,7 +9,7 @@ Ask me anything [here](https://github.com/charlesdzadu/charlesdzadu/issues?q=is%
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 October 2023 - To: 26 October 2023
+From: 21 October 2023 - To: 27 October 2023
 
 Total Time: 5 hrs 5 mins
 
