@@ -9,15 +9,15 @@ Ask me anything [here](https://github.com/charlesdzadu/charlesdzadu/issues?q=is%
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 November 2023 - To: 10 November 2023
+From: 05 November 2023 - To: 11 November 2023
 
-Total Time: 37 hrs 59 mins
+Total Time: 33 hrs 49 mins
 
-Vue.js       17 hrs 3 mins   ███████████▒░░░░░░░░░░░░░   44.91 %
-Python       7 hrs 25 mins   █████░░░░░░░░░░░░░░░░░░░░   19.54 %
-JSON         3 hrs 24 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.95 %
-TypeScript   2 hrs 24 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.33 %
-Dart         1 hr 38 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 %
+Vue.js       16 hrs 24 mins  ████████████░░░░░░░░░░░░░   48.49 %
+Python       5 hrs 1 min     ███▓░░░░░░░░░░░░░░░░░░░░░   14.84 %
+JSON         3 hrs 24 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.06 %
+Dart         1 hr 38 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.85 %
+TypeScript   1 hr 23 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 %
 ```
 
 <!--END_SECTION:waka-->
