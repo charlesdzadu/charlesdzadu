@@ -9,15 +9,15 @@ Ask me anything [here](https://github.com/charlesdzadu/charlesdzadu/issues?q=is%
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 November 2023 - To: 03 December 2023
+From: 28 November 2023 - To: 04 December 2023
 
-Total Time: 3 hrs 1 min
+Total Time: 4 hrs 29 mins
 
-YAML         1 hr 23 mins    ███████████▒░░░░░░░░░░░░░   45.94 %
-Python       44 mins         ██████░░░░░░░░░░░░░░░░░░░   24.55 %
-Bash         14 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 %
-JSON         12 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.90 %
-Dart         10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.55 %
+YAML         1 hr 23 mins    ███████▓░░░░░░░░░░░░░░░░░   30.98 %
+Other        1 hr 22 mins    ███████▓░░░░░░░░░░░░░░░░░   30.71 %
+Python       44 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.54 %
+Bash         14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.29 %
+JSON         12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 %
 ```
 
 <!--END_SECTION:waka-->
