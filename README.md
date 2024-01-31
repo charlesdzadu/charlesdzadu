@@ -22,15 +22,20 @@ Ask me anything [here](https://github.com/charlesdzadu/charlesdzadu/issues?q=is%
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 February 2023 - To: 30 January 2024
+From: 24 January 2024 - To: 30 January 2024
 
-Total Time: 953 hrs 55 mins
+Total Time: 29 hrs 22 mins
 
-Vue.js            277 hrs 54 mins ███████▒░░░░░░░░░░░░░░░░░   29.13 %
-Python            191 hrs 20 mins █████░░░░░░░░░░░░░░░░░░░░   20.06 %
-Dart              133 hrs 16 mins ███▒░░░░░░░░░░░░░░░░░░░░░   13.97 %
-TypeScript        69 hrs 38 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   07.30 %
-Other             68 hrs 52 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   07.22 %
+YAML              9 hrs 56 mins   ████████▒░░░░░░░░░░░░░░░░   33.86 %
+Python            9 hrs 55 mins   ████████▒░░░░░░░░░░░░░░░░   33.79 %
+Bash              2 hrs 26 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 %
+Docker            1 hr            █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 %
+Vue.js            58 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
+TypeScript        58 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 %
+JSON              53 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 %
+Text              45 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
+Git Config        28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
+XML               26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
 ```
 
 <!--END_SECTION:waka-->
