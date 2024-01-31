@@ -17,3 +17,7 @@ Ask me anything [here](https://github.com/charlesdzadu/charlesdzadu/issues?q=is%
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/charlesdzadu/count.svg" />
 </p>
+
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
