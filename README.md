@@ -20,4 +20,17 @@ Ask me anything [here](https://github.com/charlesdzadu/charlesdzadu/issues?q=is%
 
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 24 January 2024 - To: 30 January 2024
+
+Total Time: 29 hrs 22 mins
+
+YAML              9 hrs 56 mins   ████████▒░░░░░░░░░░░░░░░░   33.86 %
+Python            9 hrs 55 mins   ████████▒░░░░░░░░░░░░░░░░   33.79 %
+Bash              2 hrs 26 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 %
+Docker            1 hr            █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 %
+Vue.js            58 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
+```
+
 <!--END_SECTION:waka-->
