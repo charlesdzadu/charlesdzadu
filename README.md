@@ -37,3 +37,5 @@ Other        13 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ```
 
 <!--END_SECTION:waka-->
+
+[![wakatime](https://wakatime.com/badge/user/6d8ac926-0fd6-4910-abc9-4f3dd06a877c.svg)](https://wakatime.com/@6d8ac926-0fd6-4910-abc9-4f3dd06a877c)
