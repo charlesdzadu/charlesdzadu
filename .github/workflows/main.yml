@@ -1,4 +1,4 @@
-name: WakaTime status update
+name: WakaTime status updateer
 
 on:
   workflow_dispatch:
