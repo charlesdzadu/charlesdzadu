@@ -22,7 +22,7 @@ Ask me anything [here](https://github.com/charlesdzadu/charlesdzadu/issues?q=is%
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 March 2024 - To: 23 March 2024
+From: 18 March 2024 - To: 24 March 2024
 
 Total Time: 25 hrs 56 mins
 
