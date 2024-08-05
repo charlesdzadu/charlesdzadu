@@ -22,7 +22,7 @@ Ask me anything [here](https://github.com/charlesdzadu/charlesdzadu/issues?q=is%
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 July 2024 - To: 02 August 2024
+From: 28 July 2024 - To: 03 August 2024
 
 Total Time: 3 hrs 22 mins
 
