@@ -22,7 +22,7 @@ Ask me anything [here](https://github.com/charlesdzadu/charlesdzadu/issues?q=is%
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 January 2025 - To: 10 January 2025
+From: 05 January 2025 - To: 11 January 2025
 
 Total Time: 17 hrs 26 mins
 
