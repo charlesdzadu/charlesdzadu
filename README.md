@@ -18,6 +18,8 @@ Ask me anything [here](https://github.com/charlesdzadu/charlesdzadu/issues?q=is%
   <img src="https://profile-counter.glitch.me/charlesdzadu/count.svg" />
 </p>
 
+![Charles's GitHub stats](https://github-readme-stats.vercel.app/api?username=charlesdzadu&show_icons=true&theme=radical)
+
 
 <!--START_SECTION:waka-->
 
